@@ -1,4 +1,4 @@
-Link: todo-completed.netlify.app -> App funcional
+Link: (https://todo-completed.netlify.app/) -> App funcional
 
 # Getting Started with Create React App
 
